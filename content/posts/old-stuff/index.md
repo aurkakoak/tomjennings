@@ -2,7 +2,7 @@
 title: "Old Stuff"
 date: 2023-07-19
 author: Tom Jennings
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+description: Limitations breed creativity. Infinite possibilities mean you become obsessed with the means. Limitations force you to an end. 
 ---
 
 Last month I bought a 2012 Canon EOS 500d for £50.\
