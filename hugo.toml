@@ -1,5 +1,5 @@
 title = "Awesome Hugo blog"
-baseURL = 'http://localhost:1313/'
+baseURL = "https://blog.tomjennings.technology"
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
