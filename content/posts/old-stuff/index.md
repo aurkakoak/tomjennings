@@ -12,6 +12,15 @@ I'm writing this post on a 2013 Macbook Air that I booted for the first time in 
 Old stuff works. Until it doesn't.
 
 
+## Thoughts
+
+I'd stopped being a tinkerer when my job sucked the fun out of technology. Rediscovering the viability, quality and affordability of old stuff has brought some of that fun back. 
+
+I value limitations, I thrive on limitations. Limitations breed creativity. Infinite possibilities mean you become obsessed with the means. Limitations force you to an end.  
+
+Old stuff works, until it doesn't. But it hasn't stopped working yet, and when it does, it doesn't matter. You can just buy new old stuff. 
+
+
 ### Camera
 ![Camera](4.jpg)
 My father is an avid photographer which naturally meant I was completely uninterested in it until I hit my mid 30s when I finally relented and embraced my destiny. 
@@ -42,12 +51,3 @@ Anyone that works in technology will have bits of kit lying around their house t
 I found it in a box whilst I was looking for an ethernet cable, and encouraged by my camera and my server experiences, plugged it in and was surprised to see a reassuring purple screen of life. It booted some comparatively ancient linux. The fact I entered the correct password first time should probably be a cause for concern. 
 
 I was encouraged by the performance though and the fact the battery appeared to actually be charging. 30 minutes later I had a fresh Ubuntu installed, and, flashbacks of Broadcom b43xx drivers woes aside, this is an excellent machine. The battery lasts for a period of time, considerably less than my m1, considerably more than I would have thought. The keyboard feels like an old friend. 
-
-## Thoughts
-
-I'd stopped being a tinkerer when my job sucked the fun out of technology. Rediscovering the viability, quality and affordability of old stuff has brought some of that fun back. 
-
-I value limitations, I thrive on limitations. Limitations breed creativity. Infinite possibilities mean you become obsessed with the means. Limitations force you to an end.  
-
-Old stuff works, until it doesn't. But it hasn't stopped working yet, and when it does, it doesn't matter. You can just buy new old stuff. 
-
